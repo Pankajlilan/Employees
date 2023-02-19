@@ -20,7 +20,5 @@ https://user-images.githubusercontent.com/10745274/219845829-f6b3987d-126c-4b10-
 * [Retrofit 2](https://github.com/square/retrofit)
 * [Gson](https://github.com/google/gson)
 * [Navigation](https://developer.android.com/guide/navigation)
-* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-* [Paging](https://developer.android.com/topic/libraries/architecture/paging/)
 * [OkHttp](https://github.com/square/okhttp)
